@@ -1,2 +1,2 @@
-#Huffman
-##ITMO 2022-2023
+# Huffman
+## ITMO 2022-2023
